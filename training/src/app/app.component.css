@@ -1,0 +1,19 @@
+
+
+.img-holder {
+    text-align: center;
+}
+
+.my-list {
+    margin-left: 20%;
+    padding: 20px; 
+    margin-right: 20%;
+
+}
+
+.my-list-item {
+    background: #efefef;
+    padding: 20px; 
+    border-radius: 10px; 
+    margin: 20px; 
+}
